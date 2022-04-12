@@ -1,6 +1,3 @@
-from tabnanny import check
-
-
 num = int(input("enter a num"))
 li=list()
 li2=list()
